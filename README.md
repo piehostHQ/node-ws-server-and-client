@@ -18,7 +18,7 @@ This project demonstrates a basic implementation of a WebSocket server and clien
 
 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nodejs-websocket-server.git
+   git clone https://github.com/piehostHQ/node-ws-server-and-client.git
    cd nodejs-websocket-server
 ```
 Install the required dependencies:
